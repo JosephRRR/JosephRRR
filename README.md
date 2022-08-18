@@ -2,7 +2,7 @@
 - 
 -   👋 Hi, I’m @JosephRRR
 - 👨‍💻 Just a young lad diving into the worlding of coding!
-- 🎥 I LOVE the movie RRR with a passion. Don't judge.
+- 🎥 I love the movie RRR with a passion. Don't judge.
 - 🌱 I’m currently learning in Django and HTML
 
 <!---
